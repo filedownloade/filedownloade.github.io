@@ -1,5 +1,4 @@
 function namecal() {
-    f_name = document.getElementById("name").value
     if (document.getElementById("name").value === "10201020") {
         alert("ok!")
 
