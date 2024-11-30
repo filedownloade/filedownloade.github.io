@@ -1,10 +1,10 @@
 function namecal() {
     if (document.getElementById("name").value === "10201020") {
-        alert("ok!")
+        alert("downloading...")
 
         var link = document.createElement('a');
-        link.href = '168_64152172221323.pdf'; 
-        link.download = '168_64152172221323.pdf'; 
+        link.href = 'Riazi-g.pdf'; 
+        link.download = 'Riazi-q.pdf'; 
 
 
         document.body.appendChild(link);
