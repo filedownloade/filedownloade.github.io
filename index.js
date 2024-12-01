@@ -3,7 +3,7 @@ function namecal() {
         alert("downloading...")
 
         var link = document.createElement('a');
-        link.href = 'Riazi-g.pdf'; 
+        link.href = 'Riazi-q.pdf'; 
         link.download = 'Riazi-q.pdf'; 
 
 
