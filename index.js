@@ -4,8 +4,8 @@ function namecal() {
 
         var link = document.createElement('a');
         link.innerText = "Farsi"
-        link.href = 'new_farsi.pdf'; 
-        link.download = 'new_farsi.pdf'; 
+        link.href = 'Document.pdf'; 
+        link.download = 'Document.pdf'; 
 
 
         document.body.appendChild(link);
